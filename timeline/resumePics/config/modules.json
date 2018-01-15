@@ -1,0 +1,16 @@
+[
+    {
+        "moduleName" : "module1",
+        "path"       : "module1/module1.py",
+        "execute"    : false ,
+        "description": "",
+        "owner"      : ""
+    },
+    {
+        "moduleName" : "plotWork",
+        "path"       : "plotWork/plotWork.py",
+        "execute"    : true ,
+        "description": "",
+        "owner"      : ""
+    }
+]
